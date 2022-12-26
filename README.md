@@ -1,2 +1,2 @@
 # Netflix-Data-Analytics
-Python | Numpy | Pandas | Matplotlib 
+Python | Numpy | Pandas | Matplotlib | Seaborn
